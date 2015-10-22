@@ -1,0 +1,23 @@
+name: Sean Couch Photography
+favicon: null
+layout_spectrum: 0.8750287427101284
+typography_spectrum: 0.87031633942388
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.2124421102926135
+  lightness: 0.12215522560290992
+  saturation: 0.1836022676434368
+  rhythmicContrast: 0.42441690643318
+purpose: []
